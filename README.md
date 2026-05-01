@@ -19,16 +19,6 @@
 | `FOCUS` | Reverse engineering · Binary exploitation · AI-driven analysis |
 | `OPERATING RULE` | Explicit artifacts over manual clicking |
 
-```python
-class ReverseEngineer:
-    name = "zemu"
-    unit = "A-07"
-    focus = ("reverse engineering", "pwn", "agent-driven analysis")
-
-    def current_mission(self):
-        return "turn binary analysis loops into durable tools"
-```
-
 <img width="100%" src="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/main/assets/unit07-divider.svg" alt="" />
 
 ## 02 / Measured Data
