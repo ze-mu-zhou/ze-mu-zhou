@@ -45,18 +45,8 @@ If something here helps you, a star is always appreciated.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/main/assets/unit07-divider.svg" alt="" />
-
-## 07 / Contact
-
-| Channel | Link |
-| --- | --- |
-| `BLOG` | [ze-mu-zhou.github.io](https://ze-mu-zhou.github.io) |
-| `MAIL` | [996029583@qq.com](mailto:996029583@qq.com) |
-| `GITHUB` | [@ze-mu-zhou](https://github.com/ze-mu-zhou) |
-
 <div align="center">
 
-`END OF FILE · UNIT A-07 · PROFILE ARCHIVE`
+[![MAIL](https://img.shields.io/badge/MAIL-996029583%40qq.com-e8e6e1?style=for-the-badge&labelColor=0d0d0d&color=ff4d00)](mailto:996029583@qq.com)
 
 </div>
