@@ -122,12 +122,6 @@
 <a href="https://github.com/ze-mu-zhou/IDACLI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ze-mu-zhou&repo=IDACLI&bg_color=FAF0E6&border_color=C9A84C&title_color=8B6914&icon_color=C9A84C&text_color=5C4033" />
 </a>
-<a href="https://github.com/ze-mu-zhou/ZM_DNS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ze-mu-zhou&repo=ZM_DNS&bg_color=FAF0E6&border_color=C9A84C&title_color=8B6914&icon_color=C9A84C&text_color=5C4033" />
-</a>
-<a href="https://github.com/ze-mu-zhou/NE3XCTF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ze-mu-zhou&repo=NE3XCTF&bg_color=FAF0E6&border_color=C9A84C&title_color=8B6914&icon_color=C9A84C&text_color=5C4033" />
-</a>
 
 </div>
 
