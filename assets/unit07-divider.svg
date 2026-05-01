@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="technical ruler divider">
+  <defs>
+    <pattern id="minor" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0d0d0d" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono{font-family:"JetBrains Mono","SFMono-Regular",Consolas,monospace;font-size:10px;letter-spacing:2px}
+    </style>
+  </defs>
+  <rect width="1200" height="64" fill="#e8e6e1"/>
+  <rect width="1200" height="64" fill="url(#minor)"/>
+  <line x1="0" y1="16" x2="1200" y2="16" stroke="#0d0d0d"/>
+  <line x1="0" y1="48" x2="1200" y2="48" stroke="#0d0d0d"/>
+  <rect x="0" y="0" width="110" height="6" fill="#ff4d00"/>
+  <rect x="1090" y="58" width="110" height="6" fill="#ff4d00"/>
+  <g stroke="#0d0d0d">
+    <line x1="0" y1="16" x2="0" y2="48"/><line x1="120" y1="16" x2="120" y2="48"/>
+    <line x1="240" y1="16" x2="240" y2="48"/><line x1="360" y1="16" x2="360" y2="48"/>
+    <line x1="480" y1="16" x2="480" y2="48"/><line x1="600" y1="16" x2="600" y2="48"/>
+    <line x1="720" y1="16" x2="720" y2="48"/><line x1="840" y1="16" x2="840" y2="48"/>
+    <line x1="960" y1="16" x2="960" y2="48"/><line x1="1080" y1="16" x2="1080" y2="48"/>
+    <line x1="1200" y1="16" x2="1200" y2="48"/>
+  </g>
+  <text x="24" y="37" class="mono" fill="#8a8a8a">A-07</text>
+  <text x="600" y="37" text-anchor="middle" class="mono" fill="#0d0d0d">MEASURE · BUILD · REPLAY</text>
+  <text x="1176" y="37" text-anchor="end" class="mono" fill="#8a8a8a">REV.04</text>
+</svg>
