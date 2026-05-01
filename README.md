@@ -32,6 +32,16 @@
 | `05` | `WRITEUP` | Blog / notes / artifacts | Keep evidence reproducible |
 | `06` | `STATUS` | Live | Currently building AI-native binary tooling |
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ## 06 / Manifesto
 
 > Build tools that leave evidence.
