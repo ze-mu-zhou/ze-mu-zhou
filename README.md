@@ -19,19 +19,6 @@
 | `FOCUS` | Reverse engineering · Binary exploitation · AI-driven analysis |
 | `OPERATING RULE` | Explicit artifacts over manual clicking |
 
-<img width="100%" src="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/main/assets/unit07-divider.svg" alt="" />
-
-## 02 / Measured Data
-
-| No. | Signal | Reading | Note |
-| --- | --- | --- | --- |
-| `01` | `RE` | IDA Pro / Ghidra / GDB | Static and dynamic inspection |
-| `02` | `PWN` | pwntools / Linux / Docker | Repeatable exploit workflows |
-| `03` | `AGENT` | Codex / Claude Code / JSONL | Tooling designed for AI operators |
-| `04` | `LANG` | Python / Rust / C / Assembly | Small tools, sharp edges |
-| `05` | `WRITEUP` | Blog / notes / artifacts | Keep evidence reproducible |
-| `06` | `STATUS` | Live | Currently building AI-native binary tooling |
-
 <div align="center">
 
 <picture>
@@ -41,13 +28,6 @@
 </picture>
 
 </div>
-
-## 06 / Manifesto
-
-> Build tools that leave evidence.
-> Prefer stable commands over screenshots.
-> Make reverse-engineering loops scriptable.
-> If the result cannot be replayed, the result is not finished.
 
 <img width="100%" src="https://raw.githubusercontent.com/ze-mu-zhou/ze-mu-zhou/main/assets/unit07-divider.svg" alt="" />
 
