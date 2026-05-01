@@ -8,11 +8,6 @@
 
 </div>
 
-```text
-DOC · A-07 / REV.04        TECHNICAL ARCHIVE — ZE-MU-ZHOU        SYS: NOMINAL
-CLASS II                   REVERSE ENGINEERING UNIT              MODE: LIVE
-```
-
 ## 01 / Subject File
 
 | Field | Value |
